@@ -84,7 +84,6 @@ export const Skill_data = [
     {
       name: "Discord",
       src: "/discord.svg",
-      href :"https://discord.com/channels/himanshu.b"
       
     },
     {
